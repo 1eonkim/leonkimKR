@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there! 👋
 
 ### I'm a Junior Developer, I will learn plenty of information of code and also new languages! 🚀 <br/>
 ### I enjoy swimming, reading. 🏊‍♂️ 📖 <br/>
