@@ -21,5 +21,5 @@
     <img src="https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=Node.js&logoColor=339933"/>
     <img src="https://img.shields.io/badge/React-303030?style=flat-square&logo=React&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Python-ffdf3d?style=flat-square&logo=Python&logoColor=206de8"/>
-    <b>.... and lots of things!</b>
+    <b>... and lots of things!</b>
 </p>
