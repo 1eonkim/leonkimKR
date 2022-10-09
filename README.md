@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-## I'm a Junior Developer, I will learn plenty of information of code and also new languages! 🚀 <br/>
-## I enjoy swimming, reading. 🏊‍♂️ 📖 <br/>
-## I hope to develop many things. (like magic!) ✨ <br/>
+### I'm a Junior Developer, I will learn plenty of information of code and also new languages! 🚀 <br/>
+### I enjoy swimming, reading. 🏊‍♂️ 📖 <br/>
+### I hope to develop many things. (like magic!) ✨ <br/>
 <br/>
 ### Here some languages what I'm learning. ✍
 <br/>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <br/>
 <br/>
-And some I <b>will<b/> learn. ✍
+### And some I <b>will<b/> learn. ✍
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
