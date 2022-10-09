@@ -1,9 +1,10 @@
 ### Hi there 👋
-I'm a Junior Developer, I will learn plenty of information of code and also new languages! 🚀 <br/>
-I enjoy swimming, reading. 🏊‍♂️ 📖 <br/>
-I hope to develop many things. (like magic!) ✨ <br/>
+
+## I'm a Junior Developer, I will learn plenty of information of code and also new languages! 🚀 <br/>
+## I enjoy swimming, reading. 🏊‍♂️ 📖 <br/>
+## I hope to develop many things. (like magic!) ✨ <br/>
 <br/>
-Here some languages what I'm learning. ✍
+### Here some languages what I'm learning. ✍
 <br/>
 <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
