@@ -11,7 +11,6 @@
 ### Here some languages what I'm learning. ✍
 
 <p>
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
     <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
@@ -25,6 +24,12 @@
     <img src="https://img.shields.io/badge/React-303030?style=flat-square&logo=React&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Python-ffdf3d?style=flat-square&logo=Python&logoColor=206de8"/>
     <b>... and lots of things!</b>
+</p>
+
+### IDE and more stuff
+<p>
+    <img src="https://img.shields.io/badge/VScode-F5792A?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falaaarm&count_bg=%23B4B4B4&title_bg=%23313131&icon=&icon_color=%23E7E7E7&title=visiters&edge_flat=true)](https://hits.seeyoufarm.com)
