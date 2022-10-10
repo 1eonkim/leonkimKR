@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=Node.js&logoColor=339933"/>
     <img src="https://img.shields.io/badge/React-303030?style=flat-square&logo=React&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Python-ffdf3d?style=flat-square&logo=Python&logoColor=206de8"/>
-    <b>.... and lots of things!</b>
+    <b>... and lots of things!</b>
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falaaarm&count_bg=%23B4B4B4&title_bg=%23313131&icon=&icon_color=%23E7E7E7&title=visiters&edge_flat=true)](https://hits.seeyoufarm.com)
