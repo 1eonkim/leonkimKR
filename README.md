@@ -28,7 +28,7 @@
 
 ### IDE and more stuff
 <p>
-    <img src="https://img.shields.io/badge/VScode-F5792A?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 </p>
 
