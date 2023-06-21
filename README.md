@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<leonkimKR>&show_icons=true&locale=en&layout=compact" alt="<username>" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonkimKR&show_icons=true&locale=en&layout=compact" alt="<username>" /></p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falaaarm&count_bg=%23B4B4B4&title_bg=%23313131&icon=&icon_color=%23E7E7E7&title=visiters&edge_flat=true)](https://hits.seeyoufarm.com)
 
