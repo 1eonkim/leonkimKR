@@ -38,5 +38,5 @@
 
 ![snake gif](https://github.com/alaaarm/alaaarm/blob/output/github-contribution-grid-snake.svg)
 
-![alaaarm's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonkimKRm&show_icons=true&theme=dark)
+![alaaarm's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonkimKR&show_icons=true&theme=dark)
 
